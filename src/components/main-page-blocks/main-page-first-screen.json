@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_main_page_blocks_main_page_first_screens",
+  "info": {
+    "displayName": "Main page First screen",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "richtext"
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}

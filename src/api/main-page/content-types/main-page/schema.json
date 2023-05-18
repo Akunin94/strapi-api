@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "main_pages",
+  "info": {
+    "singularName": "main-page",
+    "pluralName": "main-pages",
+    "displayName": "Main page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dynamic_zone": {
+      "type": "dynamiczone",
+      "components": [
+        "main-page-blocks.main-page-first-screen",
+        "main-page-blocks.trending-nft"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_main_page_blocks_trending_nfts",
+  "info": {
+    "displayName": "Trending NFT"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
